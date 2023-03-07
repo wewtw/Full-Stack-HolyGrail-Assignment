@@ -1,0 +1,15 @@
+{
+  "name": "react-holygrail",
+  "version": "1.0.0",
+  "description": "Full-stack holy grail assignment solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edar Tlis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.1.2"
+  }
+}
